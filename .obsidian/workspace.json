@@ -6,7 +6,7 @@
       {
         "id": "25904341608b397a",
         "type": "tabs",
-        "dimension": 56.06653620352251,
+        "dimension": 57.14285714285714,
         "children": [
           {
             "id": "e065874c0e646a5e",
@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01 - General Skills/01-Lets Warm Up.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Lets Warm Up"
+              "title": "README"
             }
           }
         ],
@@ -56,7 +56,7 @@
       {
         "id": "01e5de3bbb681f04",
         "type": "tabs",
-        "dimension": 43.9334637964775,
+        "dimension": 42.857142857142854,
         "children": [
           {
             "id": "a9c58e0fb375c49f",
@@ -217,10 +217,19 @@
   },
   "active": "b2efc83df2222d31",
   "lastOpenFiles": [
-    "plantilla.md",
+    "PicoCTF/01 - General Skills/10-Nice netcat.md",
+    "PicoCTF/01 - General Skills/09-Glitch Cat.md",
+    "PicoCTF/01 - General Skills/08-plumbing.md",
+    "PicoCTF/01 - General Skills/07-What´s a net cat.md",
+    "PicoCTF/01 - General Skills/06-Obedient cat.md",
+    "PicoCTF/01 - General Skills/04-bases.md",
+    "PicoCTF/01 - General Skills/02-2 Warm.md",
     "PicoCTF/01 - General Skills/01-Lets Warm Up.md",
-    "PicoCTF/01 - General Skills",
+    "PicoCTF/01 - General Skills/05-First Grep.md",
+    "PicoCTF/01 - General Skills/03-Warned Up.md",
     "README.md",
+    "plantilla.md",
+    "PicoCTF/01 - General Skills",
     "PicoCTF",
     "Bienvenido.md"
   ]
