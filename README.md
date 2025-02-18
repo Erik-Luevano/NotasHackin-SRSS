@@ -1,4 +1,4 @@
-
+	
 #### Seguridad en Redes y Sistemas de Software
 ##### Notas de hacking de los retos resueltos durante el semestre
 
@@ -22,3 +22,14 @@ General Skills
 -08 Plumbing
 -09 Glitch Cat
 -10 Nice netCat
+
+-11 Based
+-12 strings it
+-13 Wave a flag
+-15 Static ain't always noise
+-16 useless
+-17 Tab, Tab, Attack
+-18 Magikarp Ground Mission
+-19 Repetitions
+-20 Big zi
+-21 First Find

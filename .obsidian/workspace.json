@@ -42,16 +42,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PicoCTF/02 - General Skills 2/08-Repetitions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "08-Repetitions"
+            }
+          },
+          {
+            "id": "8cf19b29e6192316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/02 - General Skills 2/10-First Find.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10-First Find"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "01e5de3bbb681f04",
@@ -215,20 +229,31 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b2efc83df2222d31",
+  "active": "8cf19b29e6192316",
   "lastOpenFiles": [
-    "PicoCTF/01 - General Skills/10-Nice netcat.md",
     "PicoCTF/01 - General Skills/09-Glitch Cat.md",
     "PicoCTF/01 - General Skills/08-plumbing.md",
     "PicoCTF/01 - General Skills/07-What´s a net cat.md",
-    "PicoCTF/01 - General Skills/06-Obedient cat.md",
-    "PicoCTF/01 - General Skills/04-bases.md",
-    "PicoCTF/01 - General Skills/02-2 Warm.md",
-    "PicoCTF/01 - General Skills/01-Lets Warm Up.md",
-    "PicoCTF/01 - General Skills/05-First Grep.md",
     "PicoCTF/01 - General Skills/03-Warned Up.md",
+    "PicoCTF/01 - General Skills/01-Lets Warm Up.md",
+    "PicoCTF/02 - General Skills 2/10-First Find.md",
     "README.md",
+    "PicoCTF/02 - General Skills 2/09-Big zi.md",
+    "PicoCTF/02 - General Skills 2/01-Based.md",
+    "PicoCTF/02 - General Skills 2/02-strings it.md",
+    "PicoCTF/02 - General Skills 2/03-Wave a flag.md",
+    "PicoCTF/02 - General Skills 2/04-Static ain't always noise.md",
+    "PicoCTF/02 - General Skills 2/05-useless.md",
+    "PicoCTF/02 - General Skills 2/06-Tab, Tab, Attack.md",
+    "PicoCTF/02 - General Skills 2/07-Magikarp Ground Mission.md",
+    "PicoCTF/02 - General Skills 2/08-Repetitions.md",
+    "PicoCTF/01 - General Skills/10-Nice netcat.md",
     "plantilla.md",
+    "PicoCTF/01 - General Skills/05-First Grep.md",
+    "PicoCTF/01 - General Skills/02-2 Warm.md",
+    "PicoCTF/01 - General Skills/04-bases.md",
+    "PicoCTF/02 - General Skills 2",
+    "PicoCTF/01 - General Skills/06-Obedient cat.md",
     "PicoCTF/01 - General Skills",
     "PicoCTF",
     "Bienvenido.md"
