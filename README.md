@@ -33,3 +33,14 @@ General Skills
 -19 Repetitions
 -20 Big zi
 -21 First Find
+
+- 22 Super SSH
+- 23 runme.py
+- 24 Codebook
+- 25 convertme.py
+- 26 fixme1.py
+- 27 fixme2.py
+- 28 PW Crack 1
+- 29 PW Crack 2
+- 30 PW Crack 3
+- 31 Serpentine
