@@ -44,3 +44,14 @@ General Skills
 - 29 PW Crack 2
 - 30 PW Crack 3
 - 31 Serpentine
+
+- 32 permissions
+- 33 chrono
+- 34 special
+- 35 committee issue
+- 36 time machine
+- 37 blame game
+- 38 collaborative development
+- 39 binary search
+- 40 binhexa
+- 41 ASCII Numbers
