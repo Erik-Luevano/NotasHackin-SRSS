@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PicoCTF/05 - Pico CTF Web 1/6 - Client-side-again.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "6 - Client-side-again"
             }
           }
         ]
@@ -170,8 +170,15 @@
   },
   "active": "893485be942322e1",
   "lastOpenFiles": [
-    "PicoCTF/04 - Tarea 1/10-ASCII Numbers.md",
+    "PicoCTF/05 - Pico CTF Web 1/5 - picobrowser.md",
+    "PicoCTF/05 - Pico CTF Web 1/6 - Client-side-again.md",
+    "PicoCTF/05 - Pico CTF Web 1/4 - dont-use-client-side.md",
+    "PicoCTF/05 - Pico CTF Web 1/3 - logon.md",
+    "PicoCTF/05 - Pico CTF Web 1/2 - where are the robots.md",
+    "PicoCTF/05 - Pico CTF Web 1/1 - Insp3ct0r.md",
     "README.md",
+    "PicoCTF/05 - Pico CTF Web 1",
+    "PicoCTF/04 - Tarea 1/10-ASCII Numbers.md",
     "PicoCTF/04 - Tarea 1/09-binhexa.md",
     "PicoCTF/04 - Tarea 1/08-binary search.md",
     "PicoCTF/04 - Tarea 1/07-collaborative development.md",
@@ -191,13 +198,7 @@
     "PicoCTF/03 - General Skills 3/04-convertme.py.md",
     "PicoCTF/03 - General Skills 3/03-Codebook.md",
     "PicoCTF/03 - General Skills 3/02-runme.py.md",
-    "PicoCTF/03 - General Skills 3/01-Super SSH.md",
-    "Bienvenido.md",
-    "PicoCTF/02 - General Skills 2/08-Repetitions.md",
     "PicoCTF/03 - General Skills 3",
-    "PicoCTF/02 - General Skills 2/10-First Find.md",
-    "PicoCTF/01 - General Skills/09-Glitch Cat.md",
-    "PicoCTF/01 - General Skills/08-plumbing.md",
     "PicoCTF/02 - General Skills 2",
     "PicoCTF/01 - General Skills",
     "PicoCTF"

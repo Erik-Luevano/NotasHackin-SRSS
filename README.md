@@ -55,3 +55,11 @@ General Skills
 - 39 binary search
 - 40 binhexa
 - 41 ASCII Numbers
+
+Pico ctf web 1
+- Insp3ct0r
+- where are the robots
+- logon
+- dont-use-client-side
+- picobrowser
+- Client-side-again
