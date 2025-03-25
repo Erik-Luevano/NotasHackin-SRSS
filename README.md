@@ -63,3 +63,8 @@ Pico ctf web 1
 - dont-use-client-side
 - picobrowser
 - Client-side-again
+
+Pico CTF web 2
+- GET aHEAD
+- Cookies
+- Scavenger Hunt
