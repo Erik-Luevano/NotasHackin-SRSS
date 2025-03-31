@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/06 - Pico CTF Web  2/1 - GET aHEAD.md",
+                "file": "PicoCTF/07 - Pico CTF Web 3/1 - Irish-Name-Repo 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - GET aHEAD"
+              "title": "1 - Irish-Name-Repo 1"
             }
           }
         ]
@@ -170,10 +170,15 @@
   },
   "active": "893485be942322e1",
   "lastOpenFiles": [
-    "PicoCTF/06 - Pico CTF Web  2/2 - Cookies.md",
-    "PicoCTF/06 - Pico CTF Web  2/3 - Scavenger Hunt.md",
+    "PicoCTF/07 - Pico CTF Web 3/2 - More SQLi.md",
+    "PicoCTF/07 - Pico CTF Web 3/3 - JaWT Scratchpad.md",
+    "PicoCTF/07 - Pico CTF Web 3/1 - Irish-Name-Repo 1.md",
     "README.md",
     "PicoCTF/06 - Pico CTF Web  2/1 - GET aHEAD.md",
+    "PicoCTF/07 - Pico CTF Web 3",
+    "PicoCTF/Sin título.md",
+    "PicoCTF/06 - Pico CTF Web  2/2 - Cookies.md",
+    "PicoCTF/06 - Pico CTF Web  2/3 - Scavenger Hunt.md",
     "PicoCTF/05 - Pico CTF Web 1/6 - Client-side-again.md",
     "PicoCTF/06 - Pico CTF Web  2",
     "PicoCTF/05 - Pico CTF Web 1/5 - picobrowser.md",
@@ -195,10 +200,6 @@
     "PicoCTF/04 - Tarea 1",
     "PicoCTF/03 - General Skills 3/10-Serpentine.md",
     "PicoCTF/03 - General Skills 3/09-PW Crack 3.md",
-    "PicoCTF/03 - General Skills 3/08-PW Crack 2.md",
-    "PicoCTF/03 - General Skills 3/07-PW Crack 1.md",
-    "PicoCTF/03 - General Skills 3/06-fixme2.py.md",
-    "PicoCTF/03 - General Skills 3/05-fixme1.py.md",
     "PicoCTF/03 - General Skills 3",
     "PicoCTF/02 - General Skills 2",
     "PicoCTF/01 - General Skills",

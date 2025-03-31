@@ -68,3 +68,8 @@ Pico CTF web 2
 - GET aHEAD
 - Cookies
 - Scavenger Hunt
+
+Pico CTF web 3
+- Irish-Name-Repo 1
+- More SQLi
+- JaWT Scratchpad
