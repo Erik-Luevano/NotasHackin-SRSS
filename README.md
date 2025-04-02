@@ -73,3 +73,28 @@ Pico CTF web 3
 - Irish-Name-Repo 1
 - More SQLi
 - JaWT Scratchpad
+
+Tarea 2 - Retos Web
+- Includes
+- Inspect HTML
+- IntroToBurp
+- Local Authority
+- Power Cookie
+- Roboto Sans
+- Secrets
+- SQLiLite
+- Unminify
+- WebDecode
+
+PicoCTF Forensic 1
+- Glory of the Garden
+- So Meta
+- shark on wire 1
+- extensions
+- What Lies Within
+
+PicoCTF Web parte 4
+- MatchTheRegex
+- SOAP
+- Trickster
+- Most Cookies
