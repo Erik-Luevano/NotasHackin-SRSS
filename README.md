@@ -98,3 +98,10 @@ PicoCTF Web parte 4
 - SOAP
 - Trickster
 - Most Cookies
+
+Forensic 2
+- m00nwalk
+- WhitePages
+- c0rrupt
+- like1000
+- shark on wire 2

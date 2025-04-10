@@ -11,14 +11,12 @@
             "id": "893485be942322e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "PicoCTF/08 - Tarea 2 Retos web/10 WebDecode.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250409194108.png"
               },
-              "icon": "lucide-file",
-              "title": "10 WebDecode"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250409194108"
             }
           }
         ]
@@ -170,6 +168,15 @@
   },
   "active": "893485be942322e1",
   "lastOpenFiles": [
+    "PicoCTF/11 - Forensic 2/5 shark on wire 2.md",
+    "PicoCTF/11 - Forensic 2/4 like1000.md",
+    "PicoCTF/11 - Forensic 2/3 c0rrupt.md",
+    "PicoCTF/11 - Forensic 2/2 WhitePages.md",
+    "PicoCTF/11 - Forensic 2/1 m00nwalk.md",
+    "Pasted image 20250409194108.png",
+    "README.md",
+    "PicoCTF/11 - Forensic 2",
+    "PicoCTF/08 - Tarea 2 Retos web/10 WebDecode.md",
     "PicoCTF/08 - Tarea 2 Retos web/9 Unminify.md",
     "PicoCTF/08 - Tarea 2 Retos web/8 SQLiLite.md",
     "PicoCTF/08 - Tarea 2 Retos web/7 Secrets.md",
@@ -186,25 +193,16 @@
     "PicoCTF/10 - PicoCTF Web parte 4/3 Trickster.md",
     "PicoCTF/10 - PicoCTF Web parte 4/2 SOAP.md",
     "PicoCTF/10 - PicoCTF Web parte 4/1 MatchTheRegex.md",
-    "README.md",
     "PicoCTF/10 - PicoCTF Web parte 4",
     "PicoCTF/09 - PicoCTF Forensic 1",
     "PicoCTF/08 - Tarea 2 Retos web/2 Inspect HTML.md",
     "PicoCTF/08 - Tarea 2 Retos web/1 Includes.md",
-    "PicoCTF/08 - Tarea 2 Retos web/10 WebDecode.md",
     "PicoCTF/08 - Tarea 2 Retos web",
-    "PicoCTF/07 - Pico CTF Web 3/1 - Irish-Name-Repo 1.md",
-    "PicoCTF/07 - Pico CTF Web 3/2 - More SQLi.md",
-    "PicoCTF/07 - Pico CTF Web 3/3 - JaWT Scratchpad.md",
-    "PicoCTF/06 - Pico CTF Web  2/1 - GET aHEAD.md",
     "PicoCTF/07 - Pico CTF Web 3",
-    "PicoCTF/Sin título.md",
-    "PicoCTF/06 - Pico CTF Web  2/2 - Cookies.md",
     "PicoCTF/06 - Pico CTF Web  2",
     "PicoCTF/05 - Pico CTF Web 1",
     "PicoCTF/04 - Tarea 1",
     "PicoCTF/03 - General Skills 3",
-    "PicoCTF/02 - General Skills 2",
-    "PicoCTF/01 - General Skills"
+    "PicoCTF/02 - General Skills 2"
   ]
 }
