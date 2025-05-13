@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/15 - picoCTF Forensic 4/5 Operation Orchid.md",
+                "file": "PicoCTF/16 - Tarea 3 Forensic/10 flags are stepic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 Operation Orchid"
+              "title": "10 flags are stepic"
             }
           }
         ],
@@ -185,8 +185,20 @@
   },
   "active": "d773ccdbd211368d",
   "lastOpenFiles": [
-    "PicoCTF/15 - picoCTF Forensic 4/6 Operation Oni.md",
+    "PicoCTF/16 - Tarea 3 Forensic/9 Ph4nt0m 1ntrud3r.md",
+    "PicoCTF/16 - Tarea 3 Forensic/10 flags are stepic.md",
+    "PicoCTF/16 - Tarea 3 Forensic/8 RED.md",
+    "PicoCTF/16 - Tarea 3 Forensic/7 Secret of the Polyglot.md",
+    "PicoCTF/16 - Tarea 3 Forensic/6 CanYouSee.md",
+    "PicoCTF/16 - Tarea 3 Forensic/5 Scan Surprise.md",
+    "PicoCTF/16 - Tarea 3 Forensic/4 hideme.md",
+    "PicoCTF/16 - Tarea 3 Forensic/3 Redaction gone wrong.md",
+    "PicoCTF/16 - Tarea 3 Forensic/2 St3g0.md",
+    "PicoCTF/16 - Tarea 3 Forensic/1 information.md",
+    "Pasted image 20250409194108.png",
     "PicoCTF/15 - picoCTF Forensic 4/5 Operation Orchid.md",
+    "PicoCTF/16 - Tarea 3 Forensic",
+    "PicoCTF/15 - picoCTF Forensic 4/6 Operation Oni.md",
     "PicoCTF/15 - picoCTF Forensic 4/4 Sleuthkit Apprentice.md",
     "PicoCTF/15 - picoCTF Forensic 4/3 Sleuthkit Intro.md",
     "PicoCTF/15 - picoCTF Forensic 4/2 Disk, disk, sleuth!.md",
@@ -203,24 +215,12 @@
     "PicoCTF/14 - PicoCTF Forensic 3",
     "PicoCTF/13 - Primer Examen Parcial - Parte 2 - Web/10 WebSockFish.md",
     "PicoCTF/13 - Primer Examen Parcial - Parte 2 - Web/9 SSTI2.md",
-    "PicoCTF/13 - Primer Examen Parcial - Parte 2 - Web/8 SQL Direct.md",
-    "PicoCTF/13 - Primer Examen Parcial - Parte 2 - Web/7 Java Code Analysist.md",
-    "PicoCTF/13 - Primer Examen Parcial - Parte 2 - Web/6 findme.md",
-    "PicoCTF/13 - Primer Examen Parcial - Parte 2 - Web/5 SSTI1.md",
-    "PicoCTF/13 - Primer Examen Parcial - Parte 2 - Web/4 n0s4n1ty 1.md",
-    "PicoCTF/13 - Primer Examen Parcial - Parte 2 - Web/3 head-dump.md",
-    "PicoCTF/13 - Primer Examen Parcial - Parte 2 - Web/2 Cookie Monster Secret Recipe.md",
-    "PicoCTF/13 - Primer Examen Parcial - Parte 2 - Web/1 Bookmarklet.md",
-    "PicoCTF/12 - Primer Examen Parcial - Parte 1 - General Skills/10 Specialer.md",
-    "PicoCTF/12 - Primer Examen Parcial - Parte 1 - General Skills/9 SansAlpha.md",
-    "Pasted image 20250409194108.png",
     "PicoCTF/13 - Primer Examen Parcial - Parte 2 - Web",
     "PicoCTF/12 - Primer Examen Parcial - Parte 1 - General Skills",
     "PicoCTF/11 - Forensic 2",
     "PicoCTF/10 - PicoCTF Web parte 4",
     "PicoCTF/09 - PicoCTF Forensic 1",
     "PicoCTF/08 - Tarea 2 Retos web",
-    "PicoCTF/07 - Pico CTF Web 3",
-    "PicoCTF/06 - Pico CTF Web  2"
+    "PicoCTF/07 - Pico CTF Web 3"
   ]
 }
