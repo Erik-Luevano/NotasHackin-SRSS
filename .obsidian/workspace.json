@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/16 - Tarea 3 Forensic/10 flags are stepic.md",
+                "file": "PicoCTF/17 - Crypto 1/8 interenecdec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 flags are stepic"
+              "title": "8 interenecdec"
             }
           }
         ],
@@ -185,8 +185,17 @@
   },
   "active": "d773ccdbd211368d",
   "lastOpenFiles": [
-    "PicoCTF/16 - Tarea 3 Forensic/9 Ph4nt0m 1ntrud3r.md",
+    "PicoCTF/17 - Crypto 1/7 Waves Over Lambda.md",
+    "PicoCTF/17 - Crypto 1/8 interenecdec.md",
+    "PicoCTF/17 - Crypto 1/6 Tapping.md",
+    "PicoCTF/17 - Crypto 1/5 La cifra de.md",
+    "PicoCTF/17 - Crypto 1/4 Easy One.md",
+    "PicoCTF/17 - Crypto 1/3 Caesar.md",
+    "PicoCTF/17 - Crypto 1/2 13.md",
+    "PicoCTF/17 - Crypto 1/1 The Numbers.md",
     "PicoCTF/16 - Tarea 3 Forensic/10 flags are stepic.md",
+    "PicoCTF/17 - Crypto 1",
+    "PicoCTF/16 - Tarea 3 Forensic/9 Ph4nt0m 1ntrud3r.md",
     "PicoCTF/16 - Tarea 3 Forensic/8 RED.md",
     "PicoCTF/16 - Tarea 3 Forensic/7 Secret of the Polyglot.md",
     "PicoCTF/16 - Tarea 3 Forensic/6 CanYouSee.md",
@@ -206,21 +215,12 @@
     "PicoCTF/15 - picoCTF Forensic 4",
     "PicoCTF/14 - PicoCTF Forensic 3/4 tunn3l_v1s10n.md",
     "PicoCTF/14 - PicoCTF Forensic 3/3 Matryoshka doll.md",
-    "PicoCTF/14 - PicoCTF Forensic 3/2 Webnet1.md",
-    "PicoCTF/14 - PicoCTF Forensic 3/1 WebNet0.md",
-    "PicoCTF/14 - PicoCTF Forensic 3/5 MacroHard WeakEdge.md",
-    "README.md",
-    "plantilla.md",
-    "Sin título.md",
     "PicoCTF/14 - PicoCTF Forensic 3",
-    "PicoCTF/13 - Primer Examen Parcial - Parte 2 - Web/10 WebSockFish.md",
-    "PicoCTF/13 - Primer Examen Parcial - Parte 2 - Web/9 SSTI2.md",
     "PicoCTF/13 - Primer Examen Parcial - Parte 2 - Web",
     "PicoCTF/12 - Primer Examen Parcial - Parte 1 - General Skills",
     "PicoCTF/11 - Forensic 2",
     "PicoCTF/10 - PicoCTF Web parte 4",
     "PicoCTF/09 - PicoCTF Forensic 1",
-    "PicoCTF/08 - Tarea 2 Retos web",
-    "PicoCTF/07 - Pico CTF Web 3"
+    "PicoCTF/08 - Tarea 2 Retos web"
   ]
 }
