@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/18 - Crypto 2/1 rsa-pop-quiz.md",
+                "file": "PicoCTF/19 - Crypto 3/4 b00tl3gRSA3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 rsa-pop-quiz"
+              "title": "4 b00tl3gRSA3"
             }
           }
         ],
@@ -185,8 +185,13 @@
   },
   "active": "d773ccdbd211368d",
   "lastOpenFiles": [
-    "PicoCTF/17 - Crypto 1/8 interenecdec.md",
+    "PicoCTF/19 - Crypto 3/3 b00tl3gRSA2.md",
+    "PicoCTF/19 - Crypto 3/4 b00tl3gRSA3.md",
+    "PicoCTF/19 - Crypto 3/2 Mind your Ps and Qs.md",
+    "PicoCTF/19 - Crypto 3/1 Mini RSA.md",
     "PicoCTF/18 - Crypto 2/1 rsa-pop-quiz.md",
+    "PicoCTF/19 - Crypto 3",
+    "PicoCTF/17 - Crypto 1/8 interenecdec.md",
     "PicoCTF/18 - Crypto 2",
     "PicoCTF/17 - Crypto 1/7 Waves Over Lambda.md",
     "PicoCTF/17 - Crypto 1/6 Tapping.md",
@@ -211,16 +216,11 @@
     "PicoCTF/16 - Tarea 3 Forensic",
     "PicoCTF/15 - picoCTF Forensic 4/6 Operation Oni.md",
     "PicoCTF/15 - picoCTF Forensic 4/4 Sleuthkit Apprentice.md",
-    "PicoCTF/15 - picoCTF Forensic 4/3 Sleuthkit Intro.md",
-    "PicoCTF/15 - picoCTF Forensic 4/2 Disk, disk, sleuth!.md",
-    "PicoCTF/15 - picoCTF Forensic 4/1 Milkslap.md",
     "PicoCTF/15 - picoCTF Forensic 4",
-    "PicoCTF/14 - PicoCTF Forensic 3/4 tunn3l_v1s10n.md",
     "PicoCTF/14 - PicoCTF Forensic 3",
     "PicoCTF/13 - Primer Examen Parcial - Parte 2 - Web",
     "PicoCTF/12 - Primer Examen Parcial - Parte 1 - General Skills",
     "PicoCTF/11 - Forensic 2",
-    "PicoCTF/10 - PicoCTF Web parte 4",
-    "PicoCTF/09 - PicoCTF Forensic 1"
+    "PicoCTF/10 - PicoCTF Web parte 4"
   ]
 }
